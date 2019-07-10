@@ -2,7 +2,7 @@ package tpke
 
 import (
 	"github.com/leesper/go_rng"
-	"github.com/bls"
+	"github.com/boohyunsik/tpke/bls"
 	"math/rand"
 	"time"
 )

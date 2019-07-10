@@ -1,7 +1,7 @@
 package tpke
 
 import (
-	"github.com/bls"
+	"github.com/boohyunsik/tpke/bls"
 	"testing"
 )
 
